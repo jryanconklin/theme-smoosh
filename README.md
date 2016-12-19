@@ -22,7 +22,7 @@ For best results, please:
 - Edit 'package.json' file to match your new project name.
 - Run `npm install` to pull in required devDependencies.
 
-That's it! You should have a nice clean sassy workflow to create your new custom theme. You should alter your SASS in the SASS directory. Run `gulp build` to compile your SASS to CSS for production.
+That's it! You should have a nice clean sassy workflow to create your new custom theme. Write your SASS in the `scss/style.scss` file. Run `gulp` to compile your SASS to CSS for production.
 
 ## Current Bugs
 

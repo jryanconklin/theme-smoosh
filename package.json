@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/jryanconklin/theme-smoosh#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.0.1",
+    "gulp-sourcemaps": "^1.5.2"
   }
 }
